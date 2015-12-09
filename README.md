@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work.  More changes from myfeature branch,
+This repository is for showing how Git and GitHub work. Updating for emergency fix after stashing.
 
 ## Introduction
 
@@ -8,7 +8,7 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
-As stated above, the main purpose is to provide simple examples for Fit training demos.  Adding a line for rebasing example.
+As stated above, the main purpose is to provide simple examples for Fit training demos.  
 
 
 ## Deployment
